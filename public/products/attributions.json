@@ -1,300 +1,262 @@
 {
   "gi-ground-mount-fixed-tilt": {
-    "title": "Ellicott Creek Trailway - 20230404 - 18 - Solar Stroll and WBFO transmitter tower",
-    "creator": "Andre Carrotflower",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/w/index.php?curid=130771809",
-    "query": "solar panel ground mount array field"
+    "title": "Hot-dip galvanized fixed-tilt ground mount structure",
+    "source": "https://hqmount.en.made-in-china.com/product/xnBRIwrJIlkA/China-Hot-dip-galvanized-fixed-ground-rack-solar-ground-mounting-structure.html",
+    "image": "https://image.made-in-china.com/155f0j00eHkbOdFGcMcA/Hot-dip-galvanized-fixed-ground-rack-solar-ground-mounting-structure.webp"
   },
   "gi-ground-mount-2p": {
-    "title": "20240716-USDA-RD-NY-CTS-0015-DEPSEC AQUILA NEST VINEYARD",
-    "creator": "USDAgov",
-    "license": "CC PDM 1.0",
-    "source": "https://www.flickr.com/photos/41284017@N08/53865626446",
-    "query": "solar farm ground mounted panels"
-  },
-  "rooftop-pitched-rail": {
-    "title": "Simon Smith House, Haddam c. 1745 (Cape-style)",
-    "creator": "David Hoffman '41",
-    "license": "CC BY-NC-SA 2.0",
-    "source": "https://www.flickr.com/photos/43164076@N06/51430144326",
-    "query": "solar panels pitched roof house"
-  },
-  "carport-single": {
-    "title": "Port Authority Breaks Ground for New York State's Largest Solar Carport at JFK International Airport",
-    "creator": "PortAuthorityNYNJ",
-    "license": "CC BY-NC-ND 2.0",
-    "source": "https://www.flickr.com/photos/190151392@N07/53674538895",
-    "query": "solar carport canopy"
-  },
-  "ladder-tray": {
-    "title": "Project 365 #24: 240123 Over Our Heads",
-    "creator": "comedy_nose",
-    "license": "CC BY 2.0",
-    "source": "https://www.flickr.com/photos/23408922@N07/52647738033",
-    "query": "ladder cable tray"
-  },
-  "tray-accessories-set": {
-    "title": "Data cable trays installed in the ceiling of the service corridor of the passenger concourse. (CM014B, 05-22-2019) (47952851422)",
-    "creator": "MTA Capital Construction Mega Projects",
-    "license": "CC BY 2.0",
-    "source": "https://commons.wikimedia.org/w/index.php?curid=86619549",
-    "query": "cable tray installation"
-  },
-  "frp-handrail": {
-    "title": "Sunlit Stairwell and Grid Window at The Phillips Collection",
-    "creator": "dalecruse",
-    "license": "CC BY 2.0",
-    "source": "https://www.flickr.com/photos/91873384@N04/54531732359",
-    "query": "industrial handrail railing"
-  },
-  "dc-solar-cable-10": {
-    "title": "Pueblo Chemical Agent-Destruction Pilot Plant Biotreatment Electrical Building (14029132756)",
-    "creator": "PEO ACWA",
-    "license": "CC BY 2.0",
-    "source": "https://commons.wikimedia.org/w/index.php?curid=80268724",
-    "query": "power cable spool"
-  },
-  "ac-armoured-al": {
-    "title": "Power line electrical underground junction box with armoured cable connectors Haringey",
-    "creator": "Acabashi",
-    "license": "CC BY-SA 4.0",
-    "source": "https://commons.wikimedia.org/w/index.php?curid=163239063",
-    "query": "armoured power cable"
-  },
-  "copper-bonded-rod": {
-    "title": "The former Western Road Secondary Modern School, Crookes - geograph.org.uk - 1198474",
-    "creator": "Dave Hitchborne",
-    "license": "CC BY-SA 2.0",
-    "source": "https://commons.wikimedia.org/w/index.php?curid=13917149",
-    "query": "copper ground rod earthing"
-  },
-  "cast-iron-earthing-pipe": {
-    "title": "Metal water pipe as grounding electrode",
-    "creator": "z22",
-    "license": "CC BY-SA 3.0",
-    "source": "https://commons.wikimedia.org/w/index.php?curid=32669579",
-    "query": "grounding electrode pipe"
-  },
-  "spike-arrester": {
-    "title": "Correspondence from James Spratt regarding lightning conductors",
-    "creator": null,
-    "license": "CC BY-NC-SA 4.0",
-    "source": "https://collection.sciencemuseumgroup.org.uk/documents/aa110066168/correspondence-from-james-spratt-regarding-lightning-conductors",
-    "query": "lightning rod conductor"
-  },
-  "arrester-mast": {
-    "title": "Marshall Point Lighthouse in the Evening (3873151109)",
-    "creator": "Tony Fischer",
-    "license": "CC BY 2.0",
-    "source": "https://commons.wikimedia.org/w/index.php?curid=95787769",
-    "query": "lightning mast tower"
-  },
-  "dcp-extinguisher": {
-    "title": "SZ Shenzhen Metro Station Fire extinguish red bottles September 2024 R12S 01",
-    "creator": "Ghaud Lnegauk",
-    "license": "CC CC0 1.0",
-    "source": "https://commons.wikimedia.org/w/index.php?curid=153078077",
-    "query": "fire extinguisher red"
-  },
-  "fire-sand-bucket": {
-    "title": "Sand Mountain Fire",
-    "creator": "National Interagency Fire Center",
-    "license": "CC PDM 1.0",
-    "source": "https://www.flickr.com/photos/165415395@N07/51308247014",
-    "query": "fire sand bucket"
-  },
-  "fire-alarm-panel": {
-    "title": "Noumi R Fire Alarm Control Panel",
-    "creator": "Darklanlan",
-    "license": "CC BY 4.0",
-    "source": "https://commons.wikimedia.org/w/index.php?curid=70088064",
-    "query": "fire alarm control panel"
-  },
-  "trefoil-clamp": {
-    "title": "A detailed close-up of an old, rusted metal clamp holding together thick suspension bridge cables. Captured near the hanging bridge at Thusharagiri Falls, Kozhikode.",
-    "creator": "Bigul Malayi",
-    "license": "CC CC0 1.0",
-    "source": "https://wordpress.org/photos/photo/60668dc15c/",
-    "query": "cable clamp metal"
-  },
-  "weather-sensors": {
-    "title": "Weather Station",
-    "creator": "Melinda Young Stuart",
-    "license": "CC BY-NC-ND 2.0",
-    "source": "https://www.flickr.com/photos/92033577@N00/51833755300",
-    "query": "anemometer weather station"
-  },
-  "danger-board": {
-    "title": "High voltage danger sign",
-    "creator": null,
-    "license": "CC CC0 1.0",
-    "source": "https://www.rawpixel.com/image/6038966/photo-image-public-domain-line-free",
-    "query": "high voltage danger sign"
+    "title": "Two-post 2P portrait solar ground mount system",
+    "source": "https://www.grengysolar.com/ground-mounting-system/two-post-ground-mount-solar-mounting-system-2.html",
+    "image": "https://www.grengysolar.com/uploads/34501/two-post-ground-mount-solar-mounting-system-290fdb.jpg"
   },
   "rooftop-flat-ballast": {
-    "source": "https://commons.wikimedia.org/wiki/File%3ARoof%20Photovoltaic%20Test%20Facility%20(5941022632).jpg",
-    "license": "Wikimedia Commons",
-    "query": "rooftop solar panels installation"
+    "title": "Non-penetrating ballasted flat-roof mounting system",
+    "source": "https://www.corigy.com/corigy-non-penetrating-ballast-flat-roof-mounting-system_p89.html",
+    "image": "https://www.corigy.com/uploadfile/202312/18/4a5ea16489b68fe10067a1517f38a9b4_medium.jpg"
   },
-  "perforated-gi-tray": {
-    "source": "https://commons.wikimedia.org/wiki/File%3AGerman%20tray%201.jpg",
-    "license": "Wikimedia Commons",
-    "query": "cable tray"
-  },
-  "dc-solar-cable-4": {
-    "source": "https://commons.wikimedia.org/wiki/File%3AFish%20tape.jpg",
-    "license": "Wikimedia Commons",
-    "query": "electrical cable reel"
-  },
-  "dc-solar-cable-6": {
-    "source": "https://commons.wikimedia.org/wiki/File%3ATinned%20Copper%20Wire%20anaglyph.jpg",
-    "license": "Wikimedia Commons",
-    "query": "copper electrical wire"
-  },
-  "ac-armoured-cu": {
-    "source": "https://commons.wikimedia.org/wiki/File%3APower%20control%20cables.jpg",
-    "license": "Wikimedia Commons",
-    "query": "power cable copper"
-  },
-  "rs485-cable": {
-    "source": "https://commons.wikimedia.org/wiki/File%3ATelecommunications%20cable%20-%20geograph.org.uk%20-%20932213.jpg",
-    "license": "Wikimedia Commons",
-    "query": "data cable"
-  },
-  "hdg-earthing-strip": {
-    "source": "https://commons.wikimedia.org/wiki/File%3AThe%20Architect%20and%20engineer%20of%20California%20and%20the%20Pacific%20Coast%20(1917)%20(14759098306).jpg",
-    "license": "Wikimedia Commons",
-    "query": "galvanized steel flat bar"
-  },
-  "earthing-compound": {
-    "source": "https://commons.wikimedia.org/wiki/File%3ABentonite%20bianca%20uso%20lettiera%20per%20gatti.jpg",
-    "license": "Wikimedia Commons",
-    "query": "bentonite"
-  },
-  "ese-arrester": {
-    "source": "https://commons.wikimedia.org/wiki/File%3ALightning%20Pritzerbe%2001%20(MK).jpg",
-    "license": "Wikimedia Commons",
-    "query": "lightning rod"
-  },
-  "co2-extinguisher": {
-    "source": "https://commons.wikimedia.org/wiki/File%3ACO%20extinguisher%202.PNG",
-    "license": "Wikimedia Commons",
-    "query": "carbon dioxide fire extinguisher"
-  },
-  "ss-cable-tie": {
-    "source": "https://commons.wikimedia.org/wiki/File%3ACable%20ties.jpg",
-    "license": "Wikimedia Commons",
-    "query": "cable tie"
-  },
-  "uv-cable-tie": {
-    "source": "https://commons.wikimedia.org/wiki/File%3AHK%20Causeway%20Bay%20%E8%A3%9D%E7%BD%AE%E8%97%9D%E8%A1%93%20Installation%20art%20%E8%86%A0%E5%A1%91%E5%B8%B6%20tap%20March-2012.jpg",
-    "license": "Wikimedia Commons",
-    "query": "cable ties nylon"
-  },
-  "cable-cleat": {
-    "source": "https://commons.wikimedia.org/wiki/File%3ABooster%20cables.jpg",
-    "license": "Wikimedia Commons",
-    "query": "cable clamp"
-  },
-  "cable-gland": {
-    "source": "https://commons.wikimedia.org/wiki/File%3ACable%20nut%20IP65.JPG",
-    "license": "Wikimedia Commons",
-    "query": "cable gland"
-  },
-  "acdb-1ph": {
-    "source": "https://commons.wikimedia.org/wiki/File%3AEU-EE-Tallinn-Pirita-Outdoor%20distribution%20board.JPG",
-    "license": "Wikimedia Commons",
-    "query": "electrical distribution board"
-  },
-  "acdb-3ph": {
-    "source": "https://commons.wikimedia.org/wiki/File%3AElectrical%20panel.jpg",
-    "license": "Wikimedia Commons",
-    "query": "electrical switchboard panel"
-  },
-  "dcdb": {
-    "source": "https://commons.wikimedia.org/wiki/File%3ASolar%20combiner%20box.jpg",
-    "license": "Wikimedia Commons",
-    "query": "combiner box solar"
-  },
-  "lt-panel": {
-    "source": "https://commons.wikimedia.org/wiki/File%3AElectrical%20news%20and%20engineering%20(1922)%20(14758961566).jpg",
-    "license": "Wikimedia Commons",
-    "query": "electrical control cabinet"
-  },
-  "scb": {
-    "source": "https://commons.wikimedia.org/wiki/File%3ASolar%20combiner%20box.jpg",
-    "license": "Wikimedia Commons",
-    "query": "solar combiner box"
-  },
-  "ajb": {
-    "source": "https://commons.wikimedia.org/wiki/File%3AJunction%20box.jpg",
-    "license": "Wikimedia Commons",
-    "query": "junction box electrical"
-  },
-  "mjb": {
-    "source": "https://commons.wikimedia.org/wiki/File%3AJunction%20box.jpg",
-    "license": "Wikimedia Commons",
-    "query": "electrical junction box"
-  },
-  "mc4-pair": {
-    "source": "https://commons.wikimedia.org/wiki/File%3AMC4%20connector.jpg",
-    "license": "Wikimedia Commons",
-    "query": "MC4 connector"
-  },
-  "mc4-branch": {
-    "source": "https://commons.wikimedia.org/wiki/File%3APV%20connectors%2001%20Pengo.jpg",
-    "license": "Wikimedia Commons",
-    "query": "solar cable connector"
-  },
-  "crimp-tool-kit": {
-    "source": "https://commons.wikimedia.org/wiki/File%3ACrimpt%C3%A5ng%20f%C3%B6r%20modul%C3%A4r%20kontakt%20RJ11%20och%20RJ45%20Crimping%20pliers.jpg",
-    "license": "Wikimedia Commons",
-    "query": "crimping pliers tool"
-  },
-  "data-logger": {
-    "source": "https://commons.wikimedia.org/wiki/File%3AOSeaM-Data-logger%20frontview.jpg",
-    "license": "Wikimedia Commons",
-    "query": "data logger"
-  },
-  "pyranometer": {
-    "source": "https://commons.wikimedia.org/wiki/File%3AHukseflux%20Pyranometer%20SR03.jpg",
-    "license": "Wikimedia Commons",
-    "query": "pyranometer"
-  },
-  "loto-kit": {
-    "source": "https://commons.wikimedia.org/wiki/File%3ALockout.jpg",
-    "license": "Wikimedia Commons",
-    "query": "lockout tagout"
-  },
-  "array-label": {
-    "source": "https://commons.wikimedia.org/wiki/File%3AUSMC-110301-M-JG138-003%20-%20A%20high-voltage%20sign%20warns%20of%20passing%20Marines%20of%20the%20electrical%20output%20of%20a%20soon%20to%20be%20set%20up%20generator%20at%20the%20new%20Combat%20Operations%20Center%20here%20March%201.jpg",
-    "license": "Wikimedia Commons",
-    "query": "warning sign electrical"
+  "rooftop-pitched-rail": {
+    "title": "Pitched-roof rail and clamp mounting kit",
+    "source": "https://www.solarpartscomponents.com/solar-panel-tile-roof-hook-mounting-system-spc-rf-ik03-dr",
+    "image": "https://www.solarpartscomponents.com/wp-content/uploads/2020/09/solar-panel-tile-roof-hook-mounting-system-SPC-RF-IK03-DR-1.jpg"
   },
   "trapezoidal-hooks": {
-    "source": "https://commons.wikimedia.org/wiki/File%3ACorrugated%20metal%20roof%2C%20Rampton%2C%20Cambs%20-%20geograph.org.uk%20-%20176181.jpg",
-    "license": "Wikimedia Commons",
-    "query": "corrugated metal roof"
+    "title": "Trapezoidal metal roof solar mounting hooks/clamps",
+    "source": "https://www.solarpartscomponents.com/solar-metal-roof-mounts-with-brackets-spc-rf-ck02-hr",
+    "image": "https://www.solarpartscomponents.com/wp-content/uploads/2020/11/solar-metal-roof-mounts-with-brackets-SPC-RF-CK02-HR-1-468x468.jpg"
   },
   "mounting-rails": {
-    "source": "https://commons.wikimedia.org/wiki/File%3AAluminium%20Works%20-%20geograph.org.uk%20-%20116704.jpg",
-    "license": "Wikimedia Commons",
-    "query": "aluminium profile"
+    "title": "Aluminium solar panel mounting rail extrusion",
+    "source": "https://www.solarpartscomponents.com/solar-aluminum-rails-for-mounting-system",
+    "image": "https://www.solarpartscomponents.com/wp-content/uploads/2020/07/Solar-Mounting-Rails.png"
+  },
+  "carport-single": {
+    "title": "Steel solar carport canopy structure",
+    "source": "https://www.mgsolarracking.com/product/canopy-solar-racking-structure",
+    "image": "https://img.waimaoniu.net/467/467-202004211545511318.jpg"
+  },
+  "perforated-gi-tray": {
+    "title": "Hot Dip Galvanized Perforated Cable Tray",
+    "source": "https://www.indiamart.com/proddetail/hot-dip-galvanized-perforated-cable-tray-20752191233.html",
+    "image": "https://5.imimg.com/data5/SELLER/Default/2026/1/574156001/OD/TB/JB/31521279/hot-dip-galvanized-perforated-cable-tray-1000x1000.jpg"
+  },
+  "ladder-tray": {
+    "title": "Steel Ladder Type Cable Tray",
+    "source": "https://www.indiamart.com/proddetail/ladder-type-cable-tray-16838175948.html",
+    "image": "https://5.imimg.com/data5/SELLER/Default/2023/6/320679655/RH/ND/CN/27927555/ladder-type-cable-tray-1000x1000.jpg"
   },
   "wire-mesh-tray": {
-    "source": "https://commons.wikimedia.org/wiki/File%3ACoastal%20defences%20at%20the%20foreshore%20-%20geograph.org.uk%20-%20530140.jpg",
-    "license": "Wikimedia Commons",
-    "query": "wire mesh basket"
+    "title": "Welded Wire Mesh Basket Cable Tray",
+    "source": "https://www.indiamart.com/proddetail/wire-basket-cable-tray-22836082848.html",
+    "image": "https://5.imimg.com/data5/SELLER/Default/2024/5/415208598/QD/RP/PV/81936880/wire-basket-cable-tray-1000x1000.jpg"
+  },
+  "tray-accessories-set": {
+    "title": "Cable Tray Reducer / Fittings",
+    "source": "https://www.indiamart.com/proddetail/cable-tray-reducer-8999516248.html",
+    "image": "https://3.imimg.com/data3/MV/HG/MY-2554767/cable-tray-reducer-1000x1000.jpg"
   },
   "frp-molded-grating": {
-    "source": "https://commons.wikimedia.org/wiki/File%3AChurch%20Floor%20Grating%20St%20Helen%2C%20Little%20Cawthorpe%20-%20geograph.org.uk%20-%20537045.jpg",
-    "license": "Wikimedia Commons",
-    "query": "grating floor"
+    "title": "FRP Molded Grating Panel",
+    "source": "https://www.indiamart.com/proddetail/frp-molded-grating-5038517730.html",
+    "image": "https://3.imimg.com/data3/PM/TF/MY-553521/frp-molded-grating-1000x1000.jpg"
   },
   "frp-pultruded-walkway": {
-    "source": "https://commons.wikimedia.org/wiki/File%3AView%20of%20'Naess%20Crusader'%20from%20across%20the%20River%20Wear%20(24125647434).jpg",
-    "license": "Wikimedia Commons",
-    "query": "industrial walkway platform"
+    "title": "FRP Pultruded Grating Walkway",
+    "source": "https://www.indiamart.com/proddetail/frp-pultruded-gratings-20897625848.html",
+    "image": "https://5.imimg.com/data5/SELLER/Default/2023/9/342877430/ZT/FW/OX/2838303/frp-pultruded-gratings-1000x1000.jpg"
+  },
+  "frp-handrail": {
+    "title": "FRP Handrail Railing System",
+    "source": "https://www.indiamart.com/proddetail/frp-handrail-railing-19664624630.html",
+    "image": "https://5.imimg.com/data5/SELLER/Default/2023/10/354133848/ME/OC/TH/10989544/frp-handrail-railing-1000x1000.jpeg"
+  },
+  "dc-solar-cable-4": {
+    "title": "DC Solar Cable 4 sq mm reel",
+    "source": "https://solar-world.in/products/dc-cable-4-sq-mm",
+    "image": "https://solar-world.in/cdn/shop/files/MINIQO3JIU5C3.jpg?v=1707829204&width=1946"
+  },
+  "dc-solar-cable-6": {
+    "title": "6 Sq.mm Solar PV DC Cable coil (black)",
+    "source": "https://www.indiamart.com/proddetail/6-sq-mm-solar-dc-cable-18297550988.html",
+    "image": "https://5.imimg.com/data5/QA/BW/MY-35006825/copper-conductor-1000x1000.jpeg"
+  },
+  "dc-solar-cable-10": {
+    "title": "Solar DC Cable 10 sq mm red/black",
+    "source": "https://surclesolar.com/product/pixel-solar-dc-cable-red-or-black-10-sq-mm/",
+    "image": "https://surclesolar.com/wp-content/uploads/2021/10/Pixel-cable-10mm-red-and-black.jpg"
+  },
+  "ac-armoured-al": {
+    "title": "LT XLPE Armoured Aluminium Power Cable coil",
+    "source": "https://www.indiamart.com/proddetail/lt-xlpe-aluminium-cable-10926476812.html",
+    "image": "https://4.imimg.com/data4/RY/FV/MY-5382613/lt-xlpe-aluminium-cable-250x250-1000x1000.jpg"
+  },
+  "ac-armoured-cu": {
+    "title": "XLPE Armoured Copper Power Cable coil",
+    "source": "https://www.indiamart.com/electric-oceanenterprises-india/xlpe-copper-armoured-cable.html",
+    "image": "https://5.imimg.com/data5/SELLER/Default/2025/3/493527279/SQ/OA/LZ/156512745/xlpe-copper-armoured-cable-500x500.jpg"
+  },
+  "rs485-cable": {
+    "title": "RS485 Communication Cable (shielded twisted pair) coil",
+    "source": "https://www.indiamart.com/proddetail/rs485-communication-cable-8449080997.html",
+    "image": "https://5.imimg.com/data5/HX/YA/MY-1724559/rs485-communication-cable-1000x1000.png"
+  },
+  "hdg-earthing-strip": {
+    "title": "GI earthing strip",
+    "source": "https://imimg.com",
+    "image": "https://5.imimg.com/data5/SELLER/Default/2022/8/TN/LM/LH/150584526/gi-flat-500x500-1000x1000.jpg"
+  },
+  "copper-bonded-rod": {
+    "title": "Copper Bonded Earthing Rod",
+    "source": "https://www.indiamart.com/proddetail/copper-bonded-earthing-rod-6910201273.html",
+    "image": "https://5.imimg.com/data5/SELLER/Default/2021/7/HZ/CO/XW/129910090/copper-bonded-earthing-rods-1000x1000.jpg"
+  },
+  "cast-iron-earthing-pipe": {
+    "title": "Cast Iron Earthing Pipe Electrode",
+    "source": "https://www.indiamart.com/proddetail/cast-iron-earthing-pipe-26118493855.html",
+    "image": "https://5.imimg.com/data5/ANDROID/Default/2023/12/365959460/YA/GP/XK/15268975/product-jpeg-1000x1000.jpeg"
+  },
+  "earthing-compound": {
+    "title": "Earthing backfill compound",
+    "source": "https://imimg.com",
+    "image": "https://5.imimg.com/data5/SELLER/Default/2025/5/508848997/MS/BL/RM/72407613/back-filling-compound-1000x1000.jpg"
+  },
+  "spike-arrester": {
+    "title": "Spike lightning arrester",
+    "source": "https://imimg.com",
+    "image": "https://5.imimg.com/data5/SELLER/Default/2022/3/QH/CM/KR/37216421/copper-coated-lighting-arrester-1000x1000.jpeg"
+  },
+  "ese-arrester": {
+    "title": "ESE lightning arrester",
+    "source": "https://imimg.com",
+    "image": "https://5.imimg.com/data5/SELLER/Default/2023/1/YK/IR/YJ/12401022/ese-lightning-arresters-1000x1000.jpg"
+  },
+  "arrester-mast": {
+    "title": "Lightning arrester mast",
+    "source": "https://imimg.com",
+    "image": "https://5.imimg.com/data5/SELLER/Default/2021/8/PL/NF/RG/2816310/mast-for-est-type-lightning-arrester-1000x1000.jpeg"
+  },
+  "co2-extinguisher": {
+    "title": "Red CO2 Fire Extinguisher with Horn",
+    "source": "https://www.indiamart.com/proddetail/co2-fire-extinguisher-4-5-kg-2854102614212.html",
+    "image": "https://5.imimg.com/data5/SELLER/Default/2024/5/419849995/TW/PW/VE/1629644/co2-fire-extinguisher-4-5-kg-1000x1000.jpg"
+  },
+  "dcp-extinguisher": {
+    "title": "Red DCP/ABC Dry Powder Fire Extinguisher",
+    "source": "https://www.indiamart.com/proddetail/6kg-abc-dry-powder-fire-extinguisher-19018255562.html",
+    "image": "https://5.imimg.com/data5/GP/EN/MY-57762171/6kg-abc-dry-powder-fire-extinguisher-500x500.jpg"
+  },
+  "fire-sand-bucket": {
+    "title": "Red Fire Sand Bucket Set with Stand",
+    "source": "https://www.indiamart.com/proddetail/fire-buckets-with-stand-20652697173.html",
+    "image": "https://5.imimg.com/data5/SELLER/Default/2024/3/395782589/DK/NG/SL/20371204/fire-bucket-stand-1000x1000.jpg"
+  },
+  "fire-alarm-panel": {
+    "title": "Conventional Fire Alarm Control Panel",
+    "source": "https://www.indiamart.com/proddetail/conventional-fire-alarm-control-panel-17462480433.html",
+    "image": "https://5.imimg.com/data5/SELLER/Default/2021/6/QD/AW/RA/9726062/conventional-fire-alarm-control-panel-500x500.png"
+  },
+  "ss-cable-tie": {
+    "title": "Stainless Steel Ball Lock Cable Tie",
+    "source": "https://www.indiamart.com/proddetail/stainless-steel-cable-ties-ball-lock-type-13280520248.html",
+    "image": "https://4.imimg.com/data4/GQ/NP/MY-803850/stainless-steel-cable-ties-ball-lock-type-1000x1000.jpg"
+  },
+  "uv-cable-tie": {
+    "title": "Black UV-Resistant Nylon Cable Tie",
+    "source": "https://www.indiamart.com/proddetail/500x4-8-mm-uv-black-nylon-cable-ties-23912600673.html",
+    "image": "https://5.imimg.com/data5/SELLER/Default/2021/9/MA/PH/AM/31879453/500x4-8-mm-uv-black-nylon-cable-ties-1000x1000.jpg"
+  },
+  "cable-cleat": {
+    "title": "Trefoil Cable Cleats (Novoflex) / 316L SS Trefoil Cleat",
+    "source": "https://www.indiamart.com/proddetail/trefoil-cable-cleats-18562534373.html",
+    "image": "https://5.imimg.com/data5/GC/SN/GLADMIN-337014/trefoil-cable-cleats-500x500.png"
+  },
+  "cable-gland": {
+    "title": "Brass Double Compression Cable Gland",
+    "source": "https://www.indiamart.com/proddetail/double-compression-cable-glands-20311955033.html",
+    "image": "https://5.imimg.com/data5/XD/SY/MY-2335074/double-compression-cable-glands-1000x1000.jpg"
+  },
+  "trefoil-clamp": {
+    "title": "Trefoil Cable Clamp",
+    "source": "https://www.indiamart.com/proddetail/trefoil-cable-clamp-22301546362.html",
+    "image": "https://5.imimg.com/data5/SELLER/Default/2023/10/350164966/ZO/TE/FT/3201430/trefoil-cable-clamp-1000x1000.jpeg"
+  },
+  "acdb-1ph": {
+    "title": "5 kW Havells Solar ACDB Single Phase (inbuilt AC MCB)",
+    "source": "https://www.indiamart.com/proddetail/5-kw-havells-solar-acdb-single-phase-inbuilt-ac-mcb-2855571056630.html",
+    "image": "https://5.imimg.com/data5/SELLER/Default/2025/1/478495696/FA/GV/XP/93087890/5-kw-havells-solar-acdb-single-phase-inbuilt-ac-mcb-1000x1000.jpg"
+  },
+  "acdb-3ph": {
+    "title": "Three Phase Solar ACDB",
+    "source": "https://www.indiamart.com/proddetail/solar-ac-distribution-box-3-phase-3-to-8-kw-acdb-21049771673.html",
+    "image": "https://5.imimg.com/data5/SELLER/Default/2024/5/419631643/TJ/AV/GI/30944849/solar-ac-distribution-box-3-phase-3-to-8-kw-acdb-1000x1000.jpg"
+  },
+  "dcdb": {
+    "title": "Solar DCDB / DC Distribution Box",
+    "source": "https://www.indiamart.com/proddetail/solar-dcdb-dc-distribution-box-22238040012.html",
+    "image": "https://5.imimg.com/data5/SELLER/Default/2025/6/515541924/AB/FT/UC/72582085/solar-dcdb-dc-distribution-box-1000x1000.png"
+  },
+  "lt-panel": {
+    "title": "LT Distribution Panel",
+    "source": "https://www.indiamart.com/proddetail/low-tension-panels-14127979412.html",
+    "image": "https://4.imimg.com/data4/BB/KV/GLADMIN-1930344/lt-metering-panel-1000x1000.jpg"
+  },
+  "scb": {
+    "title": "String combiner box",
+    "source": "https://imimg.com",
+    "image": "https://3.imimg.com/data3/VC/DC/MY-3472349/solar-combiner-boxes-1000x1000.jpg"
+  },
+  "ajb": {
+    "title": "Solar Array Junction Box",
+    "source": "https://www.indiamart.com/proddetail/solar-array-junction-box-10926978291.html",
+    "image": "https://5.imimg.com/data5/XP/LG/MY-8762889/solar-array-junction-box-1000x1000.jpg"
+  },
+  "mjb": {
+    "title": "Main Junction Box (MJB)",
+    "source": "https://www.indiamart.com/proddetail/main-junction-box-mjb-6593941973.html",
+    "image": "https://3.imimg.com/data3/UH/BI/MY-6987842/main-junction-box-mjb-1000x1000.jpg"
+  },
+  "mc4-pair": {
+    "title": "MC4 Connector Pair (male/female)",
+    "source": "https://windandsolar.com/products/mc4-connector-pair-one-male-one-female",
+    "image": "https://windandsolar.com/cdn/shop/files/product_images-i-832-mc4_connector__69864.jpg?v=1760108481&width=1946"
+  },
+  "mc4-branch": {
+    "title": "Y/T-Branch MC4 Connector",
+    "source": "https://richsolar.com/products/y-branch-parallel-connectors-2-to-1",
+    "image": "https://richsolar.com/cdn/shop/products/RS-T2SolarPanelParallelConnectors1.jpg?v=1605766926&width=1214"
+  },
+  "crimp-tool-kit": {
+    "title": "Solar MC4 Crimping & Stripping Tool Kit",
+    "source": "https://ussolarsupplier.com/products/mc4-crimping-tools-crimper-for-solar-pv-connectors-w-stripping-cutting",
+    "image": "https://ussolarsupplier.com/cdn/shop/files/prod_image_PVCrimpingTool_Generic.jpg?v=1765461638&width=1946"
+  },
+  "data-logger": {
+    "title": "Solar Data Logger (WiFi stick)",
+    "source": "https://www.indiamart.com/proddetail/data-logging-stick-wifi-17792681212.html",
+    "image": "https://5.imimg.com/data5/GE/PL/MY-8132385/solar-wifi-stick-1000x1000.jpg"
+  },
+  "pyranometer": {
+    "title": "Pyranometer solar irradiance sensor",
+    "source": "https://www.indiamart.com/proddetail/solar-radiation-sensor-pyranometer-19004438233.html",
+    "image": "https://5.imimg.com/data5/JY/SR/MY-9844015/solar-radiation-sensor-2f-pyranometer-1000x1000.png"
+  },
+  "weather-sensors": {
+    "title": "Anemometer wind speed & direction sensor",
+    "source": "https://www.niubol.com/Automatic-Weather-Stations/Anemometer.html",
+    "image": "https://www.niubol.com/static/upload/image/20230218/1676691173261381.png"
+  },
+  "danger-board": {
+    "title": "Danger High Voltage sign board",
+    "source": "https://www.indiamart.com/proddetail/danger-high-voltage-sign-board-2859246260448.html",
+    "image": "https://5.imimg.com/data5/SELLER/Default/2026/5/609731951/LB/NR/DB/228467192/danger-high-voltage-sign-board-1000x1000.jpg"
+  },
+  "loto-kit": {
+    "title": "Lockout Tagout (LOTO) station kit",
+    "source": "https://www.masterlock.com/products/lockout-tagout/lockout-kits-&-stations",
+    "image": "https://cdn.masterlock.com/product/285/MLCOM_PRODUCT_S1850E410.jpg"
+  },
+  "array-label": {
+    "title": "Solar PV warning identification label",
+    "source": "https://fastsolarsigns.com/collections/labels",
+    "image": "https://fastsolarsigns.com/cdn/shop/files/F-052-Warning_Photovoltaic_Power_Source.jpg"
   }
 }
