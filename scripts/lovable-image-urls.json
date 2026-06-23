@@ -1,0 +1,66 @@
+{
+  "gi-ground-mount-fixed-tilt": { "candidates": ["https://evora-power-nexus.lovable.app/assets/mms-ground-0TdGtKn_.jpg"], "title": "GI Ground Mount Structures", "source": "https://evora-power-nexus.lovable.app/products" },
+  "gi-ground-mount-2p": { "candidates": ["https://evora-power-nexus.lovable.app/assets/mms-ground-0TdGtKn_.jpg"], "title": "GI Ground Mount Structures", "source": "https://evora-power-nexus.lovable.app/products" },
+  "rooftop-flat-ballast": { "candidates": ["https://evora-power-nexus.lovable.app/assets/mms-rooftop-f66ETuI3.jpg"], "title": "Rooftop MMS (Flat & Pitched)", "source": "https://evora-power-nexus.lovable.app/products" },
+  "rooftop-pitched-rail": { "candidates": ["https://evora-power-nexus.lovable.app/assets/mms-rooftop-f66ETuI3.jpg"], "title": "Rooftop MMS (Flat & Pitched)", "source": "https://evora-power-nexus.lovable.app/products" },
+  "trapezoidal-hooks": { "candidates": ["https://evora-power-nexus.lovable.app/assets/mms-tinshed-Bm1NU5Ec.jpg"], "title": "Tin Shed / Trapezoidal Hooks & Rails", "source": "https://evora-power-nexus.lovable.app/products" },
+  "mounting-rails": { "candidates": ["https://evora-power-nexus.lovable.app/assets/mms-tinshed-Bm1NU5Ec.jpg"], "title": "Tin Shed / Trapezoidal Hooks & Rails", "source": "https://evora-power-nexus.lovable.app/products" },
+  "carport-single": { "candidates": ["https://evora-power-nexus.lovable.app/assets/mms-carport-DbdaXHWd.jpg"], "title": "Carport Mounting Structures", "source": "https://evora-power-nexus.lovable.app/products" },
+
+  "perforated-gi-tray": { "candidates": ["https://evora-power-nexus.lovable.app/assets/tray-perf-z5x-zhzh.jpg"], "title": "Perforated GI Cable Trays", "source": "https://evora-power-nexus.lovable.app/products" },
+  "ladder-tray": { "candidates": ["https://evora-power-nexus.lovable.app/assets/tray-ladder-Bmc0-O6B.jpg"], "title": "Ladder-Type Cable Trays", "source": "https://evora-power-nexus.lovable.app/products" },
+  "wire-mesh-tray": { "candidates": ["https://evora-power-nexus.lovable.app/assets/tray-mesh-GC-HBlJB.jpg"], "title": "Wire Mesh Cable Trays", "source": "https://evora-power-nexus.lovable.app/products" },
+  "tray-accessories-set": { "candidates": ["https://evora-power-nexus.lovable.app/assets/tray-acc-Bux3YxY1.jpg"], "title": "Tray Covers, Bends & Reducers", "source": "https://evora-power-nexus.lovable.app/products" },
+
+  "frp-molded-grating": { "candidates": ["https://evora-power-nexus.lovable.app/assets/frp-grating-BmRVqxIx.jpg"], "title": "FRP Molded Gratings", "source": "https://evora-power-nexus.lovable.app/products" },
+  "frp-pultruded-walkway": { "candidates": ["https://evora-power-nexus.lovable.app/assets/frp-walk-wnXAvLXj.jpg"], "title": "FRP Pultruded Walkways", "source": "https://evora-power-nexus.lovable.app/products" },
+  "frp-handrail": { "candidates": ["https://evora-power-nexus.lovable.app/assets/frp-rail-B03_s7Zj.jpg"], "title": "FRP Handrails & Supports", "source": "https://evora-power-nexus.lovable.app/products" },
+
+  "dc-solar-cable-4": { "candidates": ["https://evora-power-nexus.lovable.app/assets/cab-dc-BnA-3QTA.jpg"], "title": "DC Solar Cables", "source": "https://evora-power-nexus.lovable.app/products" },
+  "dc-solar-cable-6": { "candidates": ["https://evora-power-nexus.lovable.app/assets/cab-dc-BnA-3QTA.jpg"], "title": "DC Solar Cables", "source": "https://evora-power-nexus.lovable.app/products" },
+  "dc-solar-cable-10": { "candidates": ["https://evora-power-nexus.lovable.app/assets/cab-dc-BnA-3QTA.jpg"], "title": "DC Solar Cables", "source": "https://evora-power-nexus.lovable.app/products" },
+  "ac-armoured-al": { "candidates": ["https://evora-power-nexus.lovable.app/assets/cab-ac-LAIFSPCl.jpg"], "title": "AC Armoured Cables", "source": "https://evora-power-nexus.lovable.app/products" },
+  "ac-armoured-cu": { "candidates": ["https://evora-power-nexus.lovable.app/assets/cab-ac-LAIFSPCl.jpg"], "title": "AC Armoured Cables", "source": "https://evora-power-nexus.lovable.app/products" },
+  "rs485-cable": { "candidates": ["https://evora-power-nexus.lovable.app/assets/cab-rs485-CfX4F6qp.jpg"], "title": "Communication / RS485 Cables", "source": "https://evora-power-nexus.lovable.app/products" },
+
+  "hdg-earthing-strip": { "candidates": ["https://evora-power-nexus.lovable.app/assets/ear-strip-DPp0OoLK.jpg"], "title": "HDG Earthing Strips", "source": "https://evora-power-nexus.lovable.app/products" },
+  "copper-bonded-rod": { "candidates": ["https://evora-power-nexus.lovable.app/assets/ear-rod-D1Vb1yxu.jpg"], "title": "Copper Bonded Earthing Rods", "source": "https://evora-power-nexus.lovable.app/products" },
+  "cast-iron-earthing-pipe": { "candidates": ["https://evora-power-nexus.lovable.app/assets/ear-pipe-C-a_9eJp.jpg"], "title": "Cast Iron Earthing Pipes", "source": "https://evora-power-nexus.lovable.app/products" },
+  "earthing-compound": { "candidates": ["https://evora-power-nexus.lovable.app/assets/ear-chem-_VC7WCp1.jpg"], "title": "Chemical Earthing Compounds", "source": "https://evora-power-nexus.lovable.app/products" },
+
+  "spike-arrester": { "candidates": ["https://evora-power-nexus.lovable.app/assets/lit-conv-khQhLvFr.jpg"], "title": "Conventional Lightning Arresters", "source": "https://evora-power-nexus.lovable.app/products" },
+  "ese-arrester": { "candidates": ["https://evora-power-nexus.lovable.app/assets/lit-ese-DySaIR8V.jpg"], "title": "ESE Lightning Arresters", "source": "https://evora-power-nexus.lovable.app/products" },
+  "arrester-mast": { "candidates": ["https://evora-power-nexus.lovable.app/assets/lit-mast-BD5ziVA2.jpg"], "title": "Lightning Arrester Masts & Bases", "source": "https://evora-power-nexus.lovable.app/products" },
+
+  "co2-extinguisher": { "candidates": ["https://evora-power-nexus.lovable.app/assets/fire-co2-CRVNOAG_.jpg"], "title": "CO2 & DCP Fire Extinguishers", "source": "https://evora-power-nexus.lovable.app/products" },
+  "dcp-extinguisher": { "candidates": ["https://evora-power-nexus.lovable.app/assets/fire-co2-CRVNOAG_.jpg"], "title": "CO2 & DCP Fire Extinguishers", "source": "https://evora-power-nexus.lovable.app/products" },
+  "fire-sand-bucket": { "candidates": ["https://evora-power-nexus.lovable.app/assets/fire-bucket-D1Vuq8FA.jpg"], "title": "Fire Sand Buckets with Stands", "source": "https://evora-power-nexus.lovable.app/products" },
+  "fire-alarm-panel": { "candidates": ["https://evora-power-nexus.lovable.app/assets/fire-panel-DIsMqNGR.jpg"], "title": "Automatic Fire Detection Panels", "source": "https://evora-power-nexus.lovable.app/products" },
+
+  "ss-cable-tie": { "candidates": ["https://evora-power-nexus.lovable.app/assets/tie-ss-rljGhnd7.jpg"], "title": "SS Cable Ties", "source": "https://evora-power-nexus.lovable.app/products" },
+  "uv-cable-tie": { "candidates": ["https://evora-power-nexus.lovable.app/assets/tie-pvc-C-oGYgFr.jpg"], "title": "UV-Resistant PVC Cable Ties", "source": "https://evora-power-nexus.lovable.app/products" },
+  "cable-cleat": { "candidates": ["https://evora-power-nexus.lovable.app/assets/tie-cleat-DBvZaIbQ.jpg"], "title": "Cable Cleats & Glands", "source": "https://evora-power-nexus.lovable.app/products" },
+  "cable-gland": { "candidates": ["https://evora-power-nexus.lovable.app/assets/tie-cleat-DBvZaIbQ.jpg"], "title": "Cable Cleats & Glands", "source": "https://evora-power-nexus.lovable.app/products" },
+  "trefoil-clamp": { "candidates": ["https://evora-power-nexus.lovable.app/assets/tie-clamp-DweXoDIt.jpg"], "title": "Metal / PVC / Trefoil Clamps", "source": "https://evora-power-nexus.lovable.app/products" },
+
+  "acdb-1ph": { "candidates": ["https://evora-power-nexus.lovable.app/assets/dist-acdb-DWseLhA8.jpg"], "title": "Solar ACDB", "source": "https://evora-power-nexus.lovable.app/products" },
+  "acdb-3ph": { "candidates": ["https://evora-power-nexus.lovable.app/assets/dist-acdb-DWseLhA8.jpg"], "title": "Solar ACDB", "source": "https://evora-power-nexus.lovable.app/products" },
+  "dcdb": { "candidates": ["https://evora-power-nexus.lovable.app/assets/dist-dcdb-B-v4M2xM.jpg"], "title": "Solar DCDB", "source": "https://evora-power-nexus.lovable.app/products" },
+  "lt-panel": { "candidates": ["https://evora-power-nexus.lovable.app/assets/dist-lt-5zFC3FW8.jpg"], "title": "LT / HT Panels", "source": "https://evora-power-nexus.lovable.app/products" },
+
+  "scb": { "candidates": ["https://evora-power-nexus.lovable.app/assets/cb-scb-ySOoAqMh.jpg"], "title": "String Combiner Boxes", "source": "https://evora-power-nexus.lovable.app/products" },
+  "ajb": { "candidates": ["https://evora-power-nexus.lovable.app/assets/cb-ajb-Hr9C9zvp.jpg"], "title": "Array Junction Boxes", "source": "https://evora-power-nexus.lovable.app/products" },
+  "mjb": { "candidates": ["https://evora-power-nexus.lovable.app/assets/cb-mjb-BmJLlk4A.jpg"], "title": "Main Junction Boxes", "source": "https://evora-power-nexus.lovable.app/products" },
+
+  "mc4-pair": { "candidates": ["https://evora-power-nexus.lovable.app/assets/con-mc4-Doesp6I_.jpg"], "title": "MC4 Connectors", "source": "https://evora-power-nexus.lovable.app/products" },
+  "mc4-branch": { "candidates": ["https://evora-power-nexus.lovable.app/assets/con-y-LK5In20Z.jpg"], "title": "Y-Branch & T-Branch MC4", "source": "https://evora-power-nexus.lovable.app/products" },
+  "crimp-tool-kit": { "candidates": ["https://evora-power-nexus.lovable.app/assets/con-tool-5E00c26C.jpg"], "title": "Stripping & Crimping Tools", "source": "https://evora-power-nexus.lovable.app/products" },
+
+  "data-logger": { "candidates": ["https://evora-power-nexus.lovable.app/assets/sc-logger-Djr06iHS.jpg"], "title": "Solar Data Loggers", "source": "https://evora-power-nexus.lovable.app/products" },
+  "pyranometer": { "candidates": ["https://evora-power-nexus.lovable.app/assets/sc-pyr-DO4YV5ad.jpg"], "title": "Pyranometers", "source": "https://evora-power-nexus.lovable.app/products" },
+  "weather-sensors": { "candidates": ["https://evora-power-nexus.lovable.app/assets/sc-anem-DhGG0fbM.jpg"], "title": "Anemometers & Temperature Sensors", "source": "https://evora-power-nexus.lovable.app/products" },
+
+  "danger-board": { "candidates": ["https://evora-power-nexus.lovable.app/assets/sig-danger-7-QMYrbw.jpg"], "title": "Danger Boards", "source": "https://evora-power-nexus.lovable.app/products" },
+  "loto-kit": { "candidates": ["https://evora-power-nexus.lovable.app/assets/sig-loto-oUDIhDkD.jpg"], "title": "LOTO Kits", "source": "https://evora-power-nexus.lovable.app/products" },
+  "array-label": { "candidates": ["https://evora-power-nexus.lovable.app/assets/sig-label-Cb2sPpnV.jpg"], "title": "Solar Array Identification Labels", "source": "https://evora-power-nexus.lovable.app/products" }
+}
