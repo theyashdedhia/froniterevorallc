@@ -5,7 +5,7 @@ import Icon from "@/components/Icon";
 
 export const metadata: Metadata = {
   title: "Contact",
-  description: "Contact Frontier Evora LLC — address, phone, email and enquiry form for Solar BOS procurement.",
+  description: "Contact Frontier Evora — address, phone, email and enquiry form for Solar BOS procurement.",
 };
 
 export default function ContactPage() {

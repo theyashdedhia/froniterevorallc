@@ -11,8 +11,8 @@ const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || "https://www.frontierevora.c
 export const metadata: Metadata = {
   metadataBase: new URL(siteUrl),
   title: {
-    default: "Frontier Evora LLC — Premium Solar Balance of System (BOS) Solutions",
-    template: "%s | Frontier Evora LLC",
+    default: "Frontier Evora — Premium Solar Balance of System (BOS) Solutions",
+    template: "%s | Frontier Evora",
   },
   description:
     "Premium Solar Balance of System (BOS) products for EPCs, installers and developers — mounting structures, cable trays, DC/AC cables, earthing, lightning protection, ACDB/DCDB, combiner boxes and more.",
@@ -25,12 +25,17 @@ export const metadata: Metadata = {
     "string combiner box",
     "EPC solar procurement",
   ],
+  icons: {
+    icon: "/favicon.jpeg",
+    shortcut: "/favicon.jpeg",
+    apple: "/favicon.jpeg",
+  },
   openGraph: {
     type: "website",
-    title: "Frontier Evora LLC — Premium Solar BOS Solutions",
+    title: "Frontier Evora — Premium Solar BOS Solutions",
     description: "Your trusted partner for high-grade mounting structures, cabling, and safety systems.",
     url: siteUrl,
-    siteName: "Frontier Evora LLC",
+    siteName: "Frontier Evora",
   },
 };
 

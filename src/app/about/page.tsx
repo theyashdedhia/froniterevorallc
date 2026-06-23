@@ -7,7 +7,7 @@ import { TRUST_STATEMENT } from "@/lib/catalog";
 export const metadata: Metadata = {
   title: "About Us",
   description:
-    "Frontier Evora LLC supplies premium Solar Balance of System products to EPCs, installers and developers, built to international quality and safety standards.",
+    "Frontier Evora supplies premium Solar Balance of System products to EPCs, installers and developers, built to international quality and safety standards.",
 };
 
 const certs = ["ISO 9001", "IEC", "UL", "TÜV Rheinland", "EN 50618"];
@@ -20,7 +20,7 @@ export default function AboutPage() {
         <div className="mt-6 max-w-3xl">
           <h1 className="text-4xl font-bold text-primary">A trusted partner in solar infrastructure</h1>
           <p className="mt-4 text-lg text-muted">
-            Frontier Evora LLC is a premier supplier of Solar Balance of System (BOS) products. We help EPCs,
+            Frontier Evora is a premier supplier of Solar Balance of System (BOS) products. We help EPCs,
             installers and developers source the structural, electrical and safety components that keep solar
             plants running reliably for decades.
           </p>

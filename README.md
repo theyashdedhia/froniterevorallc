@@ -1,4 +1,4 @@
-# Frontier Evora LLC — Website
+# Frontier Evora — Website
 
 B2B catalog & lead-generation website for a Solar Balance of System (BOS) supplier.
 Built with **Next.js 14 (App Router)**, **React 18**, **TypeScript** and **Tailwind CSS**.

@@ -2,7 +2,7 @@
   "name": "frontier-evora",
   "version": "0.1.0",
   "private": true,
-  "description": "B2B catalog & lead-generation website for Frontier Evora LLC — Solar Balance of System (BOS) supplier.",
+  "description": "B2B catalog & lead-generation website for Frontier Evora — Solar Balance of System (BOS) supplier.",
   "scripts": {
     "dev": "next dev",
     "build": "next build",

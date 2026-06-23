@@ -1,4 +1,4 @@
-# Frontier Evora LLC — Master Website Plan & Sitemap
+# Frontier Evora — Master Website Plan & Sitemap
 
 **Project:** B2B catalog & lead-generation website for a Solar Balance of System (BOS) supplier
 **Audience:** EPCs, solar installers, project developers, electrical contractors, procurement teams
@@ -147,7 +147,7 @@ Notation: each block below is a vertical section of the page, top to bottom.
 
 ### 4.1 Global header (every page)
 
-- Left: **Frontier Evora LLC** logo (links home).
+- Left: **Frontier Evora** logo (links home).
 - Center/right nav: **Products** (mega-menu ▾), **About Us**, **Resources / Downloads**, **Contact**.
 - Far right: **Request a Quote** (yellow primary button) + optional **RFQ list (n)** indicator if the RFQ-cart pattern is used.
 - Sticky on scroll (condensed height). Mobile: hamburger → full-screen menu; Products expands to the 13 sections; persistent "Request a Quote" button.
@@ -160,7 +160,7 @@ Notation: each block below is a vertical section of the page, top to bottom.
 - Column 3: Product sections (the 13, or top 8 + "View all").
 - Column 4: Newsletter signup (email + button) + social icons.
 - Trust strip: ISO / quality / standards badges (IEC, UL, TÜV) in a row.
-- Bottom bar: © Frontier Evora LLC, Privacy, Terms.
+- Bottom bar: © Frontier Evora, Privacy, Terms.
 
 ### 4.3 Homepage (`/`)
 

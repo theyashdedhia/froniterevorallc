@@ -7,17 +7,17 @@ const config: Config = {
     extend: {
       colors: {
         primary: {
-          DEFAULT: "#0B3C5D", // Deep Industrial Blue — trust/engineering
-          dark: "#072A43",
+          DEFAULT: "#011D3E", // Prussian Blue — trust/engineering
+          dark: "#00132A",
         },
         accent: {
-          DEFAULT: "#F5B700", // Vibrant Solar Yellow — energy (primary CTA)
-          alt: "#2E9E5B", // Eco-Green — sustainability (secondary accent)
+          DEFAULT: "#538366", // Jungle Teal — primary CTA / brand accent
+          alt: "#6FA083", // Lighter jungle teal — secondary accent
         },
-        ash: "#F4F6F8", // Light Ash Grey background
-        ink: "#1B2A33", // Body text
-        muted: "#5A6B75", // Secondary text
-        line: "#E1E6EB", // Borders
+        ash: "#F4F6F7", // Light ash background
+        ink: "#16242E", // Body text
+        muted: "#586771", // Secondary text
+        line: "#E0E5E9", // Borders
         danger: "#D7263D", // Warnings (fire/safety pages only)
       },
       fontFamily: {
@@ -27,8 +27,8 @@ const config: Config = {
         content: "1280px",
       },
       boxShadow: {
-        card: "0 1px 3px rgba(11,60,93,0.08)",
-        cardHover: "0 6px 16px rgba(11,60,93,0.12)",
+        card: "0 1px 3px rgba(1,29,62,0.08)",
+        cardHover: "0 6px 16px rgba(1,29,62,0.12)",
       },
       borderRadius: {
         card: "8px",

@@ -47,10 +47,14 @@ export default function HomePage() {
           <div className="hidden md:block">
             <div className="grid grid-cols-2 gap-3">
               {categories.slice(0, 6).map((c) => (
-                <div key={c.slug} className="rounded-card border border-white/15 bg-white/5 p-4 text-white/90">
+                <Link
+                  key={c.slug}
+                  href={`/products/${c.slug}`}
+                  className="rounded-card border border-white/15 bg-white/5 p-4 text-left text-white/90 transition hover:border-accent/60 hover:bg-white/10 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-accent"
+                >
                   <Icon name={c.icon} className="h-7 w-7 text-accent" />
                   <p className="mt-2 text-sm font-semibold">{c.name}</p>
-                </div>
+                </Link>
               ))}
             </div>
           </div>

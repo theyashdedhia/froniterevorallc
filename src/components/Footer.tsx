@@ -14,7 +14,7 @@ export default function Footer() {
               <span className="grid h-9 w-9 place-items-center rounded bg-white/10 text-accent">
                 <Icon name="bolt" className="h-5 w-5" />
               </span>
-              <span className="text-lg font-bold text-white">Frontier Evora LLC</span>
+              <span className="text-lg font-bold text-white">Frontier Evora</span>
             </div>
             <p className="mt-3 text-sm text-white/70">
               Premium Solar Balance of System (BOS) products for EPCs, installers and developers.
@@ -76,7 +76,7 @@ export default function Footer() {
         </div>
 
         <div className="mt-10 flex flex-col items-center justify-between gap-3 border-t border-white/15 pt-5 text-xs text-white/60 sm:flex-row">
-          <p>© {new Date().getFullYear()} Frontier Evora LLC. All rights reserved.</p>
+          <p>© {new Date().getFullYear()} Frontier Evora. All rights reserved.</p>
           <div className="flex gap-4">
             <Link href="/privacy-policy" className="hover:text-accent">Privacy Policy</Link>
             <Link href="/terms" className="hover:text-accent">Terms</Link>

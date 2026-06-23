@@ -62,11 +62,6 @@ export const categories: Category[] = [
             { label: "Tilt", value: "10°–30° (configurable)" },
             { label: "Foundation", value: "Ramming / pile / concrete" },
           ], ["ISO 1461", "ASTM A123"]),
-          p("gi-ground-mount-2p", "GI Ground Mount — 2P Portrait", "Two-portrait module table for large fields.", [
-            { label: "Orientation", value: "2 Portrait" },
-            { label: "Material", value: "HDG steel" },
-            { label: "Span", value: "Optimized for 540–700W modules" },
-          ], ["ISO 1461"]),
         ],
       },
       {
@@ -74,13 +69,7 @@ export const categories: Category[] = [
         name: "Rooftop MMS (Flat & Pitched Roof)",
         descriptor: "Ballasted and penetrating systems for flat and pitched roofs.",
         products: [
-          p("rooftop-flat-ballast", "Flat-Roof Ballasted MMS", "Non-penetrating ballasted system for RCC flat roofs.", [
-            { label: "Roof type", value: "Flat / RCC" },
-            { label: "Mounting", value: "Ballasted (non-penetrating)" },
-            { label: "Tilt", value: "5°–15°" },
-            { label: "Material", value: "Aluminium / GI" },
-          ], ["ISO 1461"]),
-          p("rooftop-pitched-rail", "Pitched-Roof Rail System", "Rail-and-clamp system for pitched/metal roofs.", [
+          p("rooftop-pitched-rail", "Roof Rail System", "Rail-and-clamp system for pitched/metal roofs.", [
             { label: "Roof type", value: "Pitched / metal" },
             { label: "Mounting", value: "Penetrating with flashing" },
             { label: "Material", value: "Anodized aluminium" },
@@ -92,12 +81,7 @@ export const categories: Category[] = [
         name: "Tin Shed / Trapezoidal Hooks & Rails",
         descriptor: "Hooks and rails matched to trapezoidal and tin-sheet profiles.",
         products: [
-          p("trapezoidal-hooks", "Trapezoidal Sheet Hooks", "Profile-matched hooks for trapezoidal metal sheets.", [
-            { label: "Compatibility", value: "Trapezoidal / standing-seam" },
-            { label: "Material", value: "SS / aluminium" },
-            { label: "Finish", value: "Mill / anodized" },
-          ], []),
-          p("mounting-rails", "Aluminium Mounting Rails", "Structural rails for tin-shed and metal-roof arrays.", [
+          p("mounting-rails", "Aluminium/Trapezoidal Mounting Rails", "Structural rails for tin-shed and metal-roof arrays.", [
             { label: "Section", value: "40×40 / 41×35 mm" },
             { label: "Length", value: "3.3 m / 4.4 m" },
             { label: "Material", value: "Aluminium 6063-T6" },
@@ -282,7 +266,7 @@ export const categories: Category[] = [
         name: "Communication / RS485 Cables",
         descriptor: "Shielded data cables for monitoring & SCADA.",
         products: [
-          p("rs485-cable", "RS485 Communication Cable", "Shielded twisted-pair cable for Modbus/RS485 networks.", [
+          p("rs485-cable", "RS485 / Communication / CAT6 Cable", "Shielded twisted-pair cable for Modbus/RS485 networks.", [
             { label: "Pairs", value: "1 / 2 pair" },
             { label: "Gauge", value: "22 / 24 AWG" },
             { label: "Shield", value: "Foil + braid" },
@@ -531,16 +515,10 @@ export const categories: Category[] = [
         name: "Solar ACDB (Single & Three Phase)",
         descriptor: "AC distribution boards with surge & breaker protection.",
         products: [
-          p("acdb-1ph", "Solar ACDB — Single Phase", "Single-phase AC combiner/distribution board.", [
+          p("acdb-1ph", "Solar ACDB ", "Single-phase AC combiner/distribution board.", [
             { label: "Phase", value: "1-phase" },
             { label: "Protection", value: "MCB + AC SPD Type 2" },
             { label: "Rating", value: "Up to 63 A" },
-            { label: "Enclosure", value: "IP65" },
-          ], ["IEC 61439", "IEC 61643"]),
-          p("acdb-3ph", "Solar ACDB — Three Phase", "Three-phase AC distribution board.", [
-            { label: "Phase", value: "3-phase" },
-            { label: "Protection", value: "MCCB + AC SPD" },
-            { label: "Rating", value: "Up to 250 A" },
             { label: "Enclosure", value: "IP65" },
           ], ["IEC 61439", "IEC 61643"]),
         ],
