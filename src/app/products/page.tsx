@@ -19,7 +19,7 @@ export default function ProductsPage() {
           <h1 className="text-4xl font-bold text-primary">Product Catalog</h1>
           <p className="mt-3 text-muted">
             Thirteen product families spanning the complete solar balance of system. Open any category for
-            specifications and datasheets, or request a consolidated quote across categories.
+            specifications, or request a consolidated quote across categories.
           </p>
         </div>
 

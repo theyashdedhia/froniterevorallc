@@ -56,28 +56,6 @@ const clients: Client[] = [
   },
 ];
 
-/** Logo slot: loads /logos/{slug}.png; falls back to a styled wordmark if missing. */
-function ClientLogo({ client }: { client: Client }) {
-  const [failed, setFailed] = useState(false);
-  if (failed) {
-    return (
-      <span className="font-serif text-2xl font-bold tracking-tight text-primary">
-        {client.name}
-      </span>
-    );
-  }
-  return (
-    // eslint-disable-next-line @next/next/no-img-element
-    <img
-      src={`/logos/${client.slug}.png`}
-      alt={`${client.name} logo`}
-      loading="lazy"
-      onError={() => setFailed(true)}
-      className="h-12 w-auto max-w-[180px] object-contain transition-transform duration-300 group-hover:scale-105"
-    />
-  );
-}
-
 function ClientCard({ client, index }: { client: Client; index: number }) {
   return (
     <article
@@ -87,11 +65,7 @@ function ClientCard({ client, index }: { client: Client; index: number }) {
       {/* Golden accent line at top */}
       <span className="absolute inset-x-0 top-0 h-1 bg-gradient-to-r from-gold/40 via-gold to-gold/40" />
 
-      <div className="flex h-14 items-center">
-        <ClientLogo client={client} />
-      </div>
-
-      <h3 className="mt-5 text-xl font-bold text-primary">{client.name}</h3>
+      <h3 className="text-xl font-bold text-primary">{client.name}</h3>
 
       <p className="mt-3 font-serif text-4xl font-bold leading-none text-gold">{client.highlight}</p>
       <p className="mt-1 text-xs font-semibold uppercase tracking-wide text-muted">{client.caption}</p>
@@ -99,16 +73,6 @@ function ClientCard({ client, index }: { client: Client; index: number }) {
       <span className="my-4 h-px w-full bg-accent/25" />
 
       <p className="flex-1 text-sm leading-relaxed text-muted">{client.description}</p>
-
-      <Link
-        href={client.website}
-        target="_blank"
-        rel="noopener noreferrer"
-        className="mt-5 inline-flex items-center gap-1.5 self-start rounded-md bg-primary px-4 py-2 text-sm font-semibold text-white transition-colors duration-300 hover:bg-gold hover:text-primary"
-      >
-        Visit Website
-        <Icon name="arrow" className="h-4 w-4 transition-transform duration-300 group-hover:translate-x-1" />
-      </Link>
     </article>
   );
 }

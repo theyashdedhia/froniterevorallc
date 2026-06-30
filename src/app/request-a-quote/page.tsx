@@ -29,7 +29,7 @@ export default function RequestQuotePage({
           <div className="mt-8 space-y-4">
             {[
               { icon: "check", title: "Fast response", text: "We reply within one business day with pricing and availability." },
-              { icon: "download", title: "Datasheets included", text: "We send the relevant technical documentation for your BOQ." },
+              { icon: "download", title: "Specs included", text: "We send the relevant technical documentation for your BOQ." },
               { icon: "truck", title: "Logistics handled", text: "Delivery planned around your construction timeline." },
             ].map((s) => (
               <div key={s.title} className="flex gap-3">

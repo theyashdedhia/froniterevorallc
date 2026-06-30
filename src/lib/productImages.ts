@@ -14,6 +14,7 @@ export const PRODUCT_IMAGE_SLUGS: ReadonlySet<string> = new Set([
   "carport-single",
   "cast-iron-earthing-pipe",
   "co2-extinguisher",
+  "com-solar-battery",
   "copper-bonded-rod",
   "crimp-tool-kit",
   "danger-board",

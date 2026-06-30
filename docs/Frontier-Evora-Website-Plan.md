@@ -165,7 +165,7 @@ Notation: each block below is a vertical section of the page, top to bottom.
 ### 4.3 Homepage (`/`)
 
 1. **Hero** — full-width background video or slider of a commercial solar farm / industrial rooftop, blue gradient overlay.
-   - Headline: **"Empowering Solar Infrastructure with Premium BOS Solutions."**
+   - Headline: **"Empowering Infrastructure with Premium BOS Solutions."**
    - Sub-headline: *"Your trusted partner for high-grade mounting structures, cabling, and safety systems."*
    - Primary CTA: **Explore Our Catalog** → `/products`. Secondary CTA: **Request a Quote**.
 2. **Trust bar** — "Trusted by EPCs and developers" + certification badges (IEC / UL / TÜV / ISO).

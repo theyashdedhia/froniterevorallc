@@ -99,7 +99,7 @@ export default function CategoryPage({ params }: { params: { category: string } 
                 with pricing and availability — and you can request multiple categories in one go.
               </p>
               <ul className="mt-5 space-y-2 text-sm text-ink">
-                {["Project-based net pricing", "Datasheets & samples for engineering", "Logistics built for EPC timelines"].map((t) => (
+                {["Project-based net pricing", "Specs & samples for engineering", "Logistics built for EPC timelines"].map((t) => (
                   <li key={t} className="flex items-center gap-2">
                     <Icon name="check" className="h-5 w-5 text-accent-alt" />
                     {t}

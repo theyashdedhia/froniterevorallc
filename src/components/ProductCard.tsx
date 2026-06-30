@@ -42,13 +42,6 @@ export default function ProductCard({ product, categoryIcon }: { product: Produc
         </dl>
 
         <div className="mt-4 flex items-center gap-2 border-t border-line pt-3">
-          <a
-            href={product.datasheetUrl ?? "#"}
-            className="inline-flex items-center gap-1.5 rounded-md border border-primary px-3 py-1.5 text-xs font-semibold text-primary transition hover:bg-primary hover:text-white"
-          >
-            <Icon name="download" className="h-4 w-4" />
-            Datasheet
-          </a>
           <Link
             href={`/request-a-quote?product=${encodeURIComponent(product.name)}`}
             className="inline-flex items-center gap-1.5 rounded-md bg-accent px-3 py-1.5 text-xs font-bold text-primary transition hover:brightness-95"

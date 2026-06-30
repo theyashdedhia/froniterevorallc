@@ -6,6 +6,7 @@ import Icon from "@/components/Icon";
 import HeroVideo from "@/components/HeroVideo";
 import OperationalMetrics from "@/components/OperationalMetrics";
 import BOSClientele from "@/components/BOSClientele";
+import FeaturedProducts from "@/components/FeaturedProducts";
 
 const why = [
   { icon: "shield", title: "Utility-Grade Quality", text: "Components engineered and tested for large-scale, long-life installations." },
@@ -36,7 +37,7 @@ export default function HomePage() {
               Solar Balance of System
             </span>
             <h1 className="mt-4 max-w-3xl text-4xl font-bold leading-tight text-white md:text-5xl">
-              Empowering Solar Infrastructure with Premium BOS Solutions.
+              Empowering Infrastructure with Premium BOS Solutions.
             </h1>
             <div className="mt-8 flex flex-wrap gap-3">
               <Link href="/products" className="rounded-md bg-accent px-6 py-3 font-bold text-primary transition hover:brightness-95">
@@ -75,31 +76,11 @@ export default function HomePage() {
 
       <OperationalMetrics />
 
+      <FeaturedProducts />
+
       <BOSClientele />
 
-      {/* Capability band */}
-      <section className="flex min-h-screen items-center bg-ash">
-        <div className="mx-auto w-full max-w-content px-4 py-16 md:px-6">
-        <div className="grid items-center gap-8 rounded-card border border-line bg-white p-8 shadow-card md:grid-cols-2">
-          <div>
-            <h2 className="text-2xl font-bold text-primary">One supplier. 13 product families.</h2>
-            <p className="mt-3 text-muted">
-              A typical utility-scale plant spans 40–60 procurement line items. Consolidate your balance-of-system
-              sourcing with a single partner — from mounting structures and cabling to earthing, distribution,
-              monitoring and safety.
-            </p>
-            <Link href="/resources" className="mt-5 inline-flex items-center gap-1.5 font-semibold text-primary hover:underline">
-              <Icon name="download" className="h-5 w-5" />
-              Download datasheets &amp; full catalog
-            </Link>
-          </div>
-          <div className="rounded-card bg-primary p-6 text-white">
-            <p className="text-sm uppercase tracking-wide text-accent">Standards &amp; Compliance</p>
-            <p className="mt-3 text-white/85">{TRUST_STATEMENT}</p>
-          </div>
-        </div>
-        </div>
-      </section>
+      
 
       <CTABand />
     </>

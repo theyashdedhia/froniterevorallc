@@ -28,7 +28,7 @@ export default function AboutPage() {
 
         <div className="mt-12 grid gap-6 md:grid-cols-3">
           {[
-            { icon: "structure", title: "Engineering-first", text: "We supply specifications, samples and datasheets early — the phase where EPC equipment decisions are made." },
+            { icon: "structure", title: "Engineering-first", text: "We supply specifications and samples early — the phase where EPC equipment decisions are made." },
             { icon: "shield", title: "Quality philosophy", text: "Every product line is tested for performance and durability in harsh environmental conditions." },
             { icon: "truck", title: "Built for projects", text: "Project-based supply and logistics tuned to large-scale procurement and construction timelines." },
           ].map((b) => (
@@ -61,7 +61,7 @@ export default function AboutPage() {
         </div>
       </section>
 
-      <CTABand title="Need a supplier you can spec in?" subtitle="Get datasheets and a fast, consolidated quote across categories." />
+      <CTABand title="Need a supplier you can spec in?" subtitle="Get specs and a fast, consolidated quote across categories." />
     </>
   );
 }

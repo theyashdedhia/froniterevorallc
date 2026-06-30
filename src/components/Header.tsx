@@ -58,15 +58,11 @@ export default function Header() {
                   <Link href="/products" className="text-sm font-semibold text-primary hover:underline">
                     View full catalog →
                   </Link>
-                  <Link href="/resources" className="text-sm text-muted hover:text-primary">
-                    Download datasheets
-                  </Link>
                 </div>
               </div>
             )}
           </div>
           <Link href="/about" className="text-sm font-semibold text-ink hover:text-primary">About Us</Link>
-          <Link href="/resources" className="text-sm font-semibold text-ink hover:text-primary">Resources</Link>
           <Link href="/contact" className="text-sm font-semibold text-ink hover:text-primary">Contact</Link>
         </nav>
 
@@ -108,7 +104,6 @@ export default function Header() {
             ))}
           </div>
           <Link href="/about" className="block py-2 font-semibold text-ink" onClick={() => setOpen(false)}>About Us</Link>
-          <Link href="/resources" className="block py-2 font-semibold text-ink" onClick={() => setOpen(false)}>Resources</Link>
           <Link href="/contact" className="block py-2 font-semibold text-ink" onClick={() => setOpen(false)}>Contact</Link>
           <Link
             href="/request-a-quote"

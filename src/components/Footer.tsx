@@ -33,7 +33,6 @@ export default function Footer() {
             <ul className="mt-3 space-y-2 text-sm text-white/70">
               <li><Link href="/products" className="hover:text-accent">Products</Link></li>
               <li><Link href="/about" className="hover:text-accent">About Us</Link></li>
-              <li><Link href="/resources" className="hover:text-accent">Resources / Downloads</Link></li>
               <li><Link href="/request-a-quote" className="hover:text-accent">Request a Quote</Link></li>
               <li><Link href="/contact" className="hover:text-accent">Contact</Link></li>
             </ul>
@@ -53,7 +52,7 @@ export default function Footer() {
 
           <div>
             <h4 className="text-sm font-semibold uppercase tracking-wide text-white">Newsletter</h4>
-            <p className="mt-3 text-sm text-white/70">Product updates and new datasheets.</p>
+            <p className="mt-3 text-sm text-white/70">Product updates and new releases.</p>
             <form className="mt-3 flex gap-2">
               <input
                 type="email"

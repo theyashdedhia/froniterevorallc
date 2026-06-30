@@ -11,7 +11,6 @@ export type Product = {
   shortDescription: string;
   attributes: Attribute[];
   standards: string[];
-  datasheetUrl?: string; // wire to a real PDF when supplied
 };
 
 export type SubCategory = {
@@ -738,6 +737,31 @@ export const categories: Category[] = [
             { label: "Size", value: "Custom" },
             { label: "Adhesive", value: "Outdoor-grade" },
           ], []),
+        ],
+      },
+    ],
+  },
+  {
+    slug: "energy-storage",
+    name: "Energy Storage Solutions",
+    tagline: "Battery storage systems",
+    intro:
+      "Scalable battery energy storage for commercial and industrial solar plants — peak shaving, load shifting and backup power with integrated battery management and safety.",
+    icon: "bolt",
+    standards: ["IEC 62619", "UL 1973", "IEC 62933 (BESS)"],
+    subCategories: [
+      {
+        slug: "commercial-battery-systems",
+        name: "Commercial Solar Battery Systems",
+        descriptor: "Integrated C&I battery energy storage systems.",
+        products: [
+          p("com-solar-battery", "Commercial Solar Battery System", "Integrated lithium battery energy storage system for commercial and industrial solar.", [
+            { label: "Chemistry", value: "LiFePO₄ (LFP)" },
+            { label: "Capacity", value: "Modular, scalable kWh–MWh" },
+            { label: "Voltage", value: "Low / high voltage configurations" },
+            { label: "Management", value: "Integrated BMS + EMS" },
+            { label: "Enclosure", value: "Outdoor-rated, IP-protected" },
+          ], ["IEC 62619", "UL 1973", "IEC 62933"]),
         ],
       },
     ],
