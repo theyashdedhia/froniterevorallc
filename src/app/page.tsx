@@ -1,9 +1,11 @@
 import Link from "next/link";
-import { categories, TRUST_STATEMENT } from "@/lib/catalog";
-import CategoryCard from "@/components/CategoryCard";
+import { TRUST_STATEMENT } from "@/lib/catalog";
 import TrustBar from "@/components/TrustBar";
 import CTABand from "@/components/CTABand";
 import Icon from "@/components/Icon";
+import HeroVideo from "@/components/HeroVideo";
+import OperationalMetrics from "@/components/OperationalMetrics";
+import BOSClientele from "@/components/BOSClientele";
 
 const why = [
   { icon: "shield", title: "Utility-Grade Quality", text: "Components engineered and tested for large-scale, long-life installations." },
@@ -16,7 +18,11 @@ export default function HomePage() {
   return (
     <>
       {/* Hero */}
-      <section className="relative overflow-hidden bg-primary">
+      <section className="relative flex min-h-screen items-center overflow-hidden bg-primary">
+        {/* Background video */}
+        <HeroVideo />
+        {/* Brand overlay — gradient keeps text legible while letting the video show through */}
+        <div className="absolute inset-0 bg-gradient-to-r from-primary/90 via-primary/65 to-primary/40" />
         <div
           className="absolute inset-0 opacity-30"
           style={{
@@ -24,18 +30,15 @@ export default function HomePage() {
               "radial-gradient(900px 400px at 80% -10%, #F5B70055, transparent), radial-gradient(700px 500px at 0% 120%, #2E9E5B33, transparent)",
           }}
         />
-        <div className="relative mx-auto grid max-w-content gap-8 px-4 py-20 md:grid-cols-2 md:items-center md:px-6 md:py-28">
+        <div className="relative mx-auto w-full max-w-content px-4 py-20 md:px-6 md:py-28">
           <div>
             <span className="inline-block rounded-full bg-white/10 px-3 py-1 text-xs font-semibold uppercase tracking-wide text-accent">
               Solar Balance of System
             </span>
-            <h1 className="mt-4 text-4xl font-bold leading-tight text-white md:text-5xl">
+            <h1 className="mt-4 max-w-3xl text-4xl font-bold leading-tight text-white md:text-5xl">
               Empowering Solar Infrastructure with Premium BOS Solutions.
             </h1>
-            <p className="mt-4 max-w-xl text-lg text-white/80">
-              Your trusted partner for high-grade mounting structures, cabling, and safety systems.
-            </p>
-            <div className="mt-7 flex flex-wrap gap-3">
+            <div className="mt-8 flex flex-wrap gap-3">
               <Link href="/products" className="rounded-md bg-accent px-6 py-3 font-bold text-primary transition hover:brightness-95">
                 Explore Our Catalog
               </Link>
@@ -44,27 +47,14 @@ export default function HomePage() {
               </Link>
             </div>
           </div>
-          <div className="hidden md:block">
-            <div className="grid grid-cols-2 gap-3">
-              {categories.slice(0, 6).map((c) => (
-                <Link
-                  key={c.slug}
-                  href={`/products/${c.slug}`}
-                  className="rounded-card border border-white/15 bg-white/5 p-4 text-left text-white/90 transition hover:border-accent/60 hover:bg-white/10 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-accent"
-                >
-                  <Icon name={c.icon} className="h-7 w-7 text-accent" />
-                  <p className="mt-2 text-sm font-semibold">{c.name}</p>
-                </Link>
-              ))}
-            </div>
-          </div>
         </div>
       </section>
 
       <TrustBar />
 
       {/* Why choose */}
-      <section className="mx-auto max-w-content px-4 py-16 md:px-6">
+      <section className="flex min-h-screen items-center">
+        <div className="mx-auto w-full max-w-content px-4 py-16 md:px-6">
         <div className="text-center">
           <h2 className="text-3xl font-bold text-primary">Why Choose Frontier Evora</h2>
           <p className="mt-2 text-muted">Built for the engineers and procurement teams who run solar projects.</p>
@@ -80,30 +70,16 @@ export default function HomePage() {
             </div>
           ))}
         </div>
-      </section>
-
-      {/* Featured categories */}
-      <section className="bg-ash">
-        <div className="mx-auto max-w-content px-4 py-16 md:px-6">
-          <div className="flex items-end justify-between">
-            <div>
-              <h2 className="text-3xl font-bold text-primary">Featured Categories</h2>
-              <p className="mt-2 text-muted">13 product families covering the full balance of system.</p>
-            </div>
-            <Link href="/products" className="hidden text-sm font-semibold text-primary hover:underline sm:block">
-              View full catalog →
-            </Link>
-          </div>
-          <div className="mt-8 grid gap-5 sm:grid-cols-2 lg:grid-cols-4">
-            {categories.slice(0, 8).map((c) => (
-              <CategoryCard key={c.slug} category={c} />
-            ))}
-          </div>
         </div>
       </section>
 
+      <OperationalMetrics />
+
+      <BOSClientele />
+
       {/* Capability band */}
-      <section className="mx-auto max-w-content px-4 py-16 md:px-6">
+      <section className="flex min-h-screen items-center bg-ash">
+        <div className="mx-auto w-full max-w-content px-4 py-16 md:px-6">
         <div className="grid items-center gap-8 rounded-card border border-line bg-white p-8 shadow-card md:grid-cols-2">
           <div>
             <h2 className="text-2xl font-bold text-primary">One supplier. 13 product families.</h2>
@@ -121,6 +97,7 @@ export default function HomePage() {
             <p className="text-sm uppercase tracking-wide text-accent">Standards &amp; Compliance</p>
             <p className="mt-3 text-white/85">{TRUST_STATEMENT}</p>
           </div>
+        </div>
         </div>
       </section>
 

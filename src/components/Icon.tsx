@@ -101,6 +101,18 @@ const paths: Record<string, React.ReactNode> = {
   ),
   menu: <path d="M4 7h16M4 12h16M4 17h16" />,
   close: <path d="M6 6l12 12M18 6 6 18" />,
+  handshake: (
+    <>
+      <path d="m11 17 2 2a1 1 0 0 0 1.4-1.4M12 9l-2.1-2.1a1.5 1.5 0 0 0-2.1 0L4 10.5a1.5 1.5 0 0 0 0 2.1l1.4 1.4a1.5 1.5 0 0 0 2.1 0l1.5-1.5" />
+      <path d="m12 9 3.1-3.1a1.5 1.5 0 0 1 2.1 0L20 8.6a1.5 1.5 0 0 1 0 2.1l-3.5 3.5a1 1 0 0 1-1.4 0L13 12l-2 2a1 1 0 0 1-1.4 0" />
+    </>
+  ),
+  pin: (
+    <>
+      <path d="M12 21c4-4 6-7 6-10a6 6 0 1 0-12 0c0 3 2 6 6 10Z" />
+      <circle cx="12" cy="11" r="2.2" />
+    </>
+  ),
 };
 
 export default function Icon({ name, className = "h-6 w-6" }: IconProps) {

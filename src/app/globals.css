@@ -18,3 +18,12 @@ body {
 [id] {
   scroll-margin-top: 96px;
 }
+
+/* Hide scrollbar for horizontal carousels (cross-browser) */
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+.no-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
