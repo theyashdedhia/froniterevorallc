@@ -22,14 +22,14 @@ const stats: Stat[] = [
     headline: "10+",
     subheading: "Leading EPC Partners",
     description:
-      "Trusted by India's leading EPC companies for reliable solar and infrastructure solutions.",
+      "Trusted by leading EPC companies for reliable solar and infrastructure solutions.",
   },
   {
     icon: "pin",
-    headline: "South Asia",
+    headline: "Middle East - Africa – Europe – South Asia",
     subheading: "Operational Presence",
     description:
-      "Serving customers across South Asia through a robust sourcing, logistics and project-support network.",
+      "Serving customers across Middle East - Africa – Europe – South Asia through a robust sourcing, logistics and project-support network.",
   },
   {
     icon: "panel",

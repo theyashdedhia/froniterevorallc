@@ -2,18 +2,11 @@ import Link from "next/link";
 import { TRUST_STATEMENT } from "@/lib/catalog";
 import TrustBar from "@/components/TrustBar";
 import CTABand from "@/components/CTABand";
-import Icon from "@/components/Icon";
 import HeroVideo from "@/components/HeroVideo";
 import OperationalMetrics from "@/components/OperationalMetrics";
 import BOSClientele from "@/components/BOSClientele";
 import FeaturedProducts from "@/components/FeaturedProducts";
-
-const why = [
-  { icon: "shield", title: "Utility-Grade Quality", text: "Components engineered and tested for large-scale, long-life installations." },
-  { icon: "sensor", title: "UV & Weather Resistant", text: "Materials rated for harsh outdoor conditions, from −40 °C to high-heat exposure." },
-  { icon: "truck", title: "Fast Fulfillment", text: "Project-based supply and logistics built for EPC and developer timelines." },
-  { icon: "check", title: "Industry Compliant", text: "Manufactured to IEC, UL, EN and TÜV standards across the catalog." },
-];
+import BrandsWeSupply from "@/components/BrandsWeSupply";
 
 export default function HomePage() {
   return (
@@ -53,34 +46,13 @@ export default function HomePage() {
 
       <TrustBar />
 
-      {/* Why choose */}
-      <section className="flex min-h-screen items-center">
-        <div className="mx-auto w-full max-w-content px-4 py-16 md:px-6">
-        <div className="text-center">
-          <h2 className="text-3xl font-bold text-primary">Why Choose Frontier Evora</h2>
-          <p className="mt-2 text-muted">Built for the engineers and procurement teams who run solar projects.</p>
-        </div>
-        <div className="mt-10 grid gap-5 sm:grid-cols-2 lg:grid-cols-4">
-          {why.map((w) => (
-            <div key={w.title} className="rounded-card border border-line bg-white p-5 shadow-card">
-              <span className="grid h-11 w-11 place-items-center rounded-md bg-accent/15 text-primary">
-                <Icon name={w.icon} className="h-6 w-6" />
-              </span>
-              <h3 className="mt-4 text-lg font-semibold text-ink">{w.title}</h3>
-              <p className="mt-1 text-sm text-muted">{w.text}</p>
-            </div>
-          ))}
-        </div>
-        </div>
-      </section>
-
       <OperationalMetrics />
 
       <FeaturedProducts />
 
       <BOSClientele />
 
-      
+      <BrandsWeSupply />
 
       <CTABand />
     </>
