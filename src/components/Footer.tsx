@@ -20,9 +20,11 @@ export default function Footer() {
               Premium Solar Balance of System (BOS) products for EPCs, installers and developers.
             </p>
             <p className="mt-3 text-sm text-white/70">
-              123 Industrial Avenue, [City], [Country]
+              Frontier Evora F.Z.C, Office C11F - SF6382,
               <br />
-              +1 (000) 000-0000
+              Ajman Free Zone C1 Building, Ajman Free Zone, Ajman, UAE
+              <br />
+              +971 54 275 7015
               <br />
               sales@frontierevora.com
             </p>

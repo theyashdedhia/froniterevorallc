@@ -22,8 +22,8 @@ export default function ContactPage() {
       <div className="mt-10 grid gap-8 lg:grid-cols-2">
         <div className="space-y-5">
           {[
-            { icon: "structure", label: "Address", value: "123 Industrial Avenue, [City], [Country]" },
-            { icon: "cable", label: "Phone", value: "+1 (000) 000-0000" },
+            { icon: "structure", label: "Address", value: "Frontier Evora F.Z.C, Office C11F - SF6382, Ajman Free Zone C1 Building, Ajman Free Zone, Ajman, UAE" },
+            { icon: "cable", label: "Phone", value: "+971 54 275 7015" },
             { icon: "connector", label: "Email", value: "sales@frontierevora.com" },
             { icon: "sensor", label: "Hours", value: "Mon–Sat, 9:00–18:00" },
           ].map((c) => (
